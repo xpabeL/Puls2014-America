@@ -1,4 +1,4 @@
-FTP
+﻿FTP
 Transmisión de archivos
 Hosting barato normal --> /public_html/ <-- FTP
 	index.php
@@ -32,3 +32,4 @@ Repositorio de código GITHUB (master)
 		* experimental local
 	* master (servidor.com) REPO PRODUCCION
 
+sdad
